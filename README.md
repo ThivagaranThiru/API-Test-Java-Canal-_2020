@@ -189,7 +189,7 @@
 
     HTTP/1.1 200 OK
     Status: 200 OK
-
+[
  {
        "id": 4,
        "abonne": {
@@ -245,5 +245,5 @@
 	"type": "MOUVEMENT_ADRESSE",
 	"creationDate": "2020-12-15T19:50:03.430+00:00"
  }
-
+]
 ##
