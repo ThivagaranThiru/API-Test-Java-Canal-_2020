@@ -215,7 +215,7 @@
 		    		"creationDate": "2020-12-15T18:49:41.659+00:00",
 		    		"updatedDate": "2020-12-15T19:19:35.659+00:00"
                     		},
-                 	creationDate": "2020-12-15T18:49:46.468+00:00",
+                 	"creationDate": "2020-12-15T18:49:46.468+00:00",
                     	"updatedDate": "2020-12-15T18:49:46.468+00:00",
                     	"id": 3
                 	}
@@ -244,7 +244,7 @@
 	"newValue": "\n[id=2, rue=1, place du Spectacle, postalCode=75000, city=Paris, country=France, creationDate=2020-12-15T18:49:41.659, updateUser=2020-12-15T19:19:35.659 ",
 	"type": "MOUVEMENT_ADRESSE",
 	"creationDate": "2020-12-15T19:50:03.430+00:00"
-}
+ }
 ]
 
 ## Fin
